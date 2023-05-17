@@ -211,7 +211,7 @@
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
-  "window.commandCenter": true,
+  "window.commandCenter": false,
   "git.openRepositoryInParentFolders": "always",
   "window.zoomLevel": 0
 }
